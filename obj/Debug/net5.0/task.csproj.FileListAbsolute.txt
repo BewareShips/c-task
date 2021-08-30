@@ -1,0 +1,16 @@
+C:\Users\EdenP\source\repos\task\bin\Debug\net5.0\task.exe
+C:\Users\EdenP\source\repos\task\bin\Debug\net5.0\task.deps.json
+C:\Users\EdenP\source\repos\task\bin\Debug\net5.0\task.runtimeconfig.json
+C:\Users\EdenP\source\repos\task\bin\Debug\net5.0\task.runtimeconfig.dev.json
+C:\Users\EdenP\source\repos\task\bin\Debug\net5.0\task.dll
+C:\Users\EdenP\source\repos\task\bin\Debug\net5.0\ref\task.dll
+C:\Users\EdenP\source\repos\task\bin\Debug\net5.0\task.pdb
+C:\Users\EdenP\source\repos\task\obj\Debug\net5.0\task.csproj.AssemblyReference.cache
+C:\Users\EdenP\source\repos\task\obj\Debug\net5.0\task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EdenP\source\repos\task\obj\Debug\net5.0\task.AssemblyInfoInputs.cache
+C:\Users\EdenP\source\repos\task\obj\Debug\net5.0\task.AssemblyInfo.cs
+C:\Users\EdenP\source\repos\task\obj\Debug\net5.0\task.csproj.CoreCompileInputs.cache
+C:\Users\EdenP\source\repos\task\obj\Debug\net5.0\task.dll
+C:\Users\EdenP\source\repos\task\obj\Debug\net5.0\ref\task.dll
+C:\Users\EdenP\source\repos\task\obj\Debug\net5.0\task.pdb
+C:\Users\EdenP\source\repos\task\obj\Debug\net5.0\task.genruntimeconfig.cache
