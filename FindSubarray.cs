@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace task
 {
-    class Task6
+    class FindSubarray
     {
         public void FindSubarrayWithSumNull(int[] num)
         {

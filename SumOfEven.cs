@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace task
 {
-    class Task7
+    class SumOfEven
     {
         public void  FindNumbers(int[] nums)
         {

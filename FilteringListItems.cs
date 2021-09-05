@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace task
 {
-    class Task4
+    class FilteringListItems
     {
         public List<int> nums = new List<int> { };
 

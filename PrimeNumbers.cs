@@ -6,14 +6,11 @@ using System.Threading.Tasks;
 
 namespace task
 {
-    class Task2
+    class PrimeNumbers
     {
-        
-
+    
         public int i,j;
         public bool flag;
-
-        
 
         public void DisplayPrimNumbers(int min, int max)
         {

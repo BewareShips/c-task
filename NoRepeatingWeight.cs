@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace task
 {
-    class Task3
+    class NoRepeatingWeight
     {
         public void NoRepeatingValue(int[] num)
         {

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace task
 {
-    class Task8
+    class RemoveDuplicatesItems
     {
         public void  RemoveDuplicates(int[] nums)
         {

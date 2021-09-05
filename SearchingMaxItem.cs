@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace task
 {
-    class Task5
+    class SearchingMaxItem
     {
         public List<int> nums = new List<int> { };
         public void MaximumElement()

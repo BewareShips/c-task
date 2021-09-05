@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace task
 {
-    class Task1
+    class CardNumberFromUser
     {
         public List<int> TwoDigitsArr = new List<int>();
 
